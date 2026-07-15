@@ -1,2 +1,3 @@
-# github.io
-Kai Seren's portfolio
+# Behavioural Data Scientist
+### Education
+MSc in Psychology
